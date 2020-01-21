@@ -1,0 +1,3 @@
+yum groupinstall "Desktop" "Desktop Platform" "General Purpose Desktop"
+
+extraído de https://www.thegeekdiary.com/how-to-install-gnome-desktop-environment-onto-oracle-linux-6-x/
